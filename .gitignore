@@ -1,0 +1,5 @@
+.git-standalone/
+**/.git-standalone/
+.venv/
+**/__pycache__/
+*.pyc

@@ -1,0 +1,6 @@
+{
+  "example_user": {
+    "Folder": "example_user",
+    "Password": "REPLACE_WITH_A_UNIQUE_LOCAL_PASSWORD"
+  }
+}
