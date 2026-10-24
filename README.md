@@ -32,4 +32,4 @@ This repository archives Version 1 of the SpikeAnalysisSuite. The original Versi
 
 ## License
 
-Add the license selected by the Automorphism2023 research group before distributing derivative versions.
+This software is developed and maintained by the Dai Group at Tsinghua University. Please add the license approved by the Dai Group before distributing derivative versions.
